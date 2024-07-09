@@ -1,0 +1,295 @@
+.header {
+    display: flex;
+    max-width: 1440px;
+    margin: auto;
+    padding: 0 16px;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+   
+}
+
+.container {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.second-part-header {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+ 
+    
+   
+}
+
+.icons-container {
+    margin-left: 25px
+    
+}
+
+.icons-container > svg {
+    padding: 7.5px;
+}
+
+.navigation {
+ display: flex;
+ gap: 128px;
+}
+
+.menu {
+    color: black;
+    font-size: 16px;
+}
+.hero-section {
+    max-width: 1440px;
+    margin: auto
+}
+
+.feature-section {
+    max-width: 1440px;
+    margin: auto;
+    
+}
+
+.feature-section-title-container {
+    text-align: center;
+    gap: 20px;
+    font-size: 30px;
+}
+
+.feature-titles {
+    text-align: center;
+    display: flex;
+    gap: 25px;
+    justify-content: center; 
+    padding-top: 20px;
+    padding-bottom: 15px;
+   
+     
+}
+
+.feature-rows-container {
+    display: flex;
+    gap: 24px;
+    flex-direction: column;
+}
+
+.first-row {
+    display: flex;
+    gap: 24px;
+}
+
+.second-row {
+    display: flex;
+    gap: 24px;
+}
+
+.card {
+    width: 33.33%;
+    background-color: #f4f4f4;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.card > img {
+    mix-blend-mode: multiply;
+}
+
+.banner-section {
+    position: relative;
+    max-width: 1440px;
+    margin-top: 30px;    
+}
+
+.banner-text-container {
+    position: absolute;
+    top: 0;
+    width: 50%;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    left: 50px;
+    padding-top: 50px;
+    font-size: 20px;
+   
+}
+
+.banner-text-container > button {
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 40px;
+ 
+}
+
+.mobile-section {
+    position: relative;
+    max-width: 1440px;
+    margin: auto;
+}
+
+.text-container {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 90%;
+    font-family: Arial;
+    padding: 24px;
+
+}
+
+.text2 > button {
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+
+.tv-section {
+    position: relative;
+    max-width: 1440px;
+    margin: auto;
+}
+
+.text-container2 {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 90%;
+    font-family: Arial;
+    padding: 24px;
+
+}
+.text4 > button {
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+.home-section {
+    position: relative;
+    max-width: 1440px;
+    margin: auto;
+}
+.text-container3 {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 90%;
+    font-family: Arial;
+    padding: 24px;
+    font-size: 20px;
+    padding-top: 15px;
+}
+.text6 > button {
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+
+.sustainability-section {
+    position: relative;
+    max-width: 1440px;
+    margin: auto;
+}
+
+.text-container4 {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 90%;
+    font-family: Arial;
+    padding: 24px;
+
+}
+
+.text8 > button {
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+
+
+.explore-section {
+    max-width: 1440px;
+    padding: 20px;
+    display: flex;   
+}  
+
+.image-container {
+    padding: 24px;
+    display: flex;
+    
+}
+
+.text-num-container {
+    padding: 24px
+    
+    
+}
+
+.footer-container {
+    padding: 10px;
+    display: flex;
+    max-width: 1440px;
+    flex-direction: column;
+    border-top: 1px solid gray
+
+}
+.first-part-footer {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    border-bottom: 1px solid gray;
+    font-size: 20px;
+    width: 100%;
+}
+
+.second-part-footer {
+    display: flex;
+    justify-content: space-between;  
+    border-color: 1px soliod gray; 
+    gap: 15px; 
+}
+.footer-column1 {
+    border-right: 1px solid gray
+    
+}
+.footer-column2 {
+    border-right: 1px solid gray;
+
+}
+.footer-column3 {
+    border-right: 1px solid gray;
+}    
+
+.bottom {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+
+}
+
+    
+    
+   
+
